@@ -1,0 +1,20 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Personal notes you don't want public
+personal/
+private/
+
+# Environment & credential files
+.env
+*.key
+*.pem
+*.password
+
+# Lab files you want to keep local
+/local-only/
+
+# OS generated files
+.DS_Store
