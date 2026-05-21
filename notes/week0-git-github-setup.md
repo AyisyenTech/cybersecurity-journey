@@ -43,7 +43,7 @@ git clone https://github.com/username/repo-name.git
 ```
 
 **Commit**
-A saved checkpoint of your work. Like hitting "save" but smarter — every commit has a message explaining what changed.
+A saved checkpoint of your work. Like hitting "save" but smarter , every commit has a message explaining what changed.
 ```
 git commit -m "Your message here"
 ```
@@ -91,7 +91,7 @@ Every time you complete work, this is the loop:
 
 ## Markdown Basics
 
-GitHub READMEs are written in Markdown — a simple formatting language. No special software needed, just symbols.
+GitHub READMEs are written in Markdown , a simple formatting language. No special software needed, just symbols.
 
 | Symbol | What it does | Example |
 |---|---|---|
@@ -225,9 +225,9 @@ git status            ← confirms repo is clean and connected
 ## Commit Message Convention
 
 Good commit messages follow this format:
-- **Short** — under 72 characters
-- **Action oriented** — start with a verb
-- **Present tense** — written as an instruction
+- **Short** - under 72 characters
+- **Action oriented** - start with a verb
+- **Present tense** - written as an instruction
 
 ```
 ✅ Add 12-week cybersecurity roadmap to README
@@ -244,9 +244,9 @@ Good commit messages follow this format:
 ## Repo Naming Convention
 
 GitHub repo names follow developer conventions:
-- **Lowercase** — terminals are case sensitive
-- **Hyphens** instead of spaces — spaces break terminal commands
-- **No special characters** — `&`, `@`, `!` can break commands
+- **Lowercase** - terminals are case sensitive
+- **Hyphens** - instead of spaces : spaces break terminal commands
+- **No special characters** - `&`, `@`, `!` can break commands
 
 ```
 ✅ cybersecurity-journey
