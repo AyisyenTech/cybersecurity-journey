@@ -1,5 +1,14 @@
 # My Cybersecurity & Ethical Hacking Journey
 A living roadmap documenting my hands-on journey through cybersecurity and ethical hacking, driven by a lifelong love for computers and learning. From an IT Admin to Security+ and beyond.
+## Who Am I?
+I am a NYC born and raised IT professional. 
+I truly love computers and I've always been intrigued 
+about cybersecurity, but never took the time. I believe 
+you have to learn how to attack to truly know how to 
+protect when it comes to cybersecurity. My goal is to 
+go from a Novice to Intermediate/Advanced level of 
+knowledge. One of my favorite quotes is "Live Life One 
+Line of Code at a Time"
 # PHASE 1 
 ## Weeks 1-3
 - Networking & Infrastructure
